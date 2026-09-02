@@ -21,4 +21,11 @@ body {
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+  margin: 1rem;
+}
+
+.kortLängre {
+  height: 400px;
 }
