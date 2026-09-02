@@ -5,6 +5,10 @@ body {
   display: block;
 }
 
+header {
+  padding: 20px;
+}
+
 .kort-rad {
   display: flex;
   gap: 1rem;
