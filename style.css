@@ -17,13 +17,15 @@ body {
 }
 
 .kort .btn {
+  display: inline-block;
   margin-top: auto;
   padding: 0.5rem 1rem;
-  background-color: #3b82f6;
+  background-color: #0f172a;
   text-decoration: none;
-  color: white;
+  color: #f8fafc;
   border-radius: 0.5rem;
   font-size: 0.875rem;
+  font-weight: 700;
 }
 
 .kort img {
